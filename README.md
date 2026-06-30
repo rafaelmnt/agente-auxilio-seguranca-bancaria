@@ -1,5 +1,20 @@
 # 🛡️ Agente de Auxílio à Segurança Bancária
 
+<img width="1907" height="870" alt="image" src="https://github.com/user-attachments/assets/2bd8f097-5667-41ed-9c41-4ecbc5eb03c5" />
+
+---
+
+## 🔗 Acesso ao NotebookLM
+
+O caderno temático desenvolvido para este projeto pode ser acessado através do link abaixo:
+
+**NotebookLM:**
+https://notebooklm.google.com/notebook/7feae437-ede3-4fd0-9af0-f57912c70e4a
+
+> **Observação:** caso o compartilhamento esteja indisponível, toda a documentação do projeto, incluindo objetivos, fontes, prompts e guia de estudo, encontra-se neste repositório.
+
+---
+
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido utilizando o **NotebookLM** como ferramenta de aprendizagem ativa para criar um agente especializado em **segurança digital bancária**.
@@ -24,12 +39,9 @@ O agente foi projetado para auxiliar usuários a:
 
 # 🧠 Objetivos de aprendizagem
 
-Durante o desenvolvimento deste projeto busquei compreender:
+Durante o desenvolvimento deste projeto procurei compreender como a qualidade da curadoria de fontes influencia diretamente a capacidade de uma IA responder com precisão e confiabilidade.
 
-* Como estruturar uma base de conhecimento eficiente no NotebookLM;
-* Como a qualidade das fontes influencia as respostas da IA;
-* Como construir prompts que gerem respostas mais precisas;
-* Como documentar o processo de aprendizagem utilizando engenharia de prompts.
+Além disso, busquei desenvolver habilidades de engenharia de prompts, organização do conhecimento e documentação técnica utilizando o NotebookLM.
 
 ---
 
@@ -116,6 +128,12 @@ Esses problemas foram resolvidos por meio da substituição de fontes e refiname
 
 # 📝 Resumo estruturado
 
+O agente identifica cinco categorias principais de ameaças.
+
+Depois apresenta mecanismos de proteção.
+
+Por fim orienta quais medidas devem ser tomadas caso o usuário seja vítima de fraude.
+
 ## Principais ameaças
 
 * Phishing
@@ -156,7 +174,7 @@ Autenticação utilizando dois ou mais fatores independentes.
 Lei Geral de Proteção de Dados.
 
 **MED**
-Mecanismo Especial de Devolução utilizado no Pix.
+Mecanismo do Banco Central que possibilita a análise e eventual devolução de valores em casos específicos de fraude envolvendo Pix.
 
 **Phishing**
 Golpe que busca obter informações confidenciais por meio de mensagens falsas.
@@ -182,3 +200,11 @@ Manipulação psicológica utilizada para convencer vítimas a fornecer informa�
 Este projeto demonstrou como a qualidade da curadoria de fontes influencia diretamente o desempenho de sistemas baseados em IA.
 
 Mais do que reunir documentos, o desafio consistiu em construir uma base de conhecimento consistente, capaz de gerar respostas úteis, contextualizadas e fundamentadas para auxiliar usuários na proteção de suas informações bancárias.
+
+---
+
+# 👨‍💻 Autor
+
+Rafael Monteiro
+
+Projeto desenvolvido durante o Bootcamp Bradesco - GenAI, Dados & Cyber da DIO.
